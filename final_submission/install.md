@@ -29,3 +29,6 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+* You should see the application below:
+
+![Image](https://github.com/kb-rahul/CourseProject/blob/main/UI.png)
