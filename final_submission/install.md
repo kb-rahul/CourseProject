@@ -18,7 +18,7 @@ git clone https://github.com/kb-rahul/CourseProject.git
 * Navigate to the main project directory
 
 ```
-cd ./final_submission/
+cd ./CourseProject/final_submission/
 ```
 
 * Install all the python dependencies for running the application by typing
